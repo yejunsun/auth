@@ -1,0 +1,22 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "## Branching Model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yejunsun/auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yejunsun/auth/issues"
+  },
+  "homepage": "https://github.com/yejunsun/auth#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
